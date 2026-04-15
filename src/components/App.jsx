@@ -1,4 +1,4 @@
-// src/App.jsx
+﻿// src/App.jsx
 import React from 'react';
 import Auth from './components/Auth';
 import AdForm from './components/AdForm';
