@@ -1,8 +1,23 @@
 {
   "name": "my-avito-clone",
+  "version": "0.0.1",
   "private": true,
-  "version": "0.0.0",
+  "description": "avito",
+  "keywords": [
+    "1"
+  ],
+  "homepage": "https://github.com/Leon5512/my-avito-clone#readme",
+  "bugs": {
+    "url": "https://github.com/Leon5512/my-avito-clone/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon5512/my-avito-clone.git"
+  },
+  "license": "ISC",
+  "author": "1",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
